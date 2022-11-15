@@ -1,0 +1,36 @@
+.nav{
+    border: solid 1px ;
+    padding: 10px;
+    background: black;
+    color: white;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    border-right: 1px white solid;
+    font-size: 20px;
+    padding: 10px;
+}
+.topbar{
+    vertical-align:text-top;
+    border: solid 1px;
+    padding: 10px;
+}
+.content{
+    border: 1px solid;
+    background-color: aliceblue;
+    padding: 5px;
+}
+table{
+    border: 1px solid;
+    padding: 5px;
+}
+table tr{
+    border:solid 1px;
+}
+table th{
+    border: solid 1px;
+}
+table td{
+    border: 1px solid;
+}
